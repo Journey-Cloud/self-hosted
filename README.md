@@ -22,7 +22,7 @@
     ·
     <a href="https://hub.docker.com/r/journeycloud/journey-sync-self-hosted">Docker Image</a>
     ·
-    <a href="https://journey-cloud.github.io/self-hosted">Guides</a>
+    <a href="https://journey-cloud.github.io/self-hosted-boilerplate">Guides</a>
     ·
     <a href="https://forum.journey.cloud/t/self-hosted">Forum</a>
     ·
