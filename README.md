@@ -3,7 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![CC BY-NC-SA 4.0][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -41,6 +41,13 @@ The objective of this project is to provide users with a self-hosted variant of 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Built With
+
+* [![Node][Node-logo]][Node-url]
+* [![Express][Express-logo]][Express-url]
+* [![MongoDB][MongoDB-logo]][MongoDB-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -90,7 +97,3 @@ Ways to Contribute
 [Express-url]: https://expressjs.com/
 [MongoDB-logo]: https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=
 [MongoDB-url]: https://www.mongodb.com/
-[ElasticSearch-logo]: https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&color=005571&logo=Elastic&logoColor=FFFFFF
-[ElasticSearch-url]: https://www.elastic.co/
-[RabbitMQ-logo]: https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=
-[RabbitMQ-url]: https://www.rabbitmq.com/
