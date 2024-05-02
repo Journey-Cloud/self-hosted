@@ -3,7 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![CC BY-NC-SA 4.0][license-shield]][license-url]
+<!-- [![CC BY-NC-SA 4.0][license-shield]][license-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,7 +15,7 @@
 <h3 align="center">Journey Self-Hosted Sync (Coming Soon)</h3>
 
   <p align="center">
-    Journey® is a versatile journal and diary application available on both mobile and web platforms. Experience the flexibility to store your journal entries in Journey Cloud sync, Google Drive, and/or your own Self-hosted Journey Sync Drive. This repository offers boilerplate templates for setting up your Self-hosted Journey Sync Drive.
+    Journey® is a versatile journal and diary application available on both mobile and web platforms. Experience the flexibility to store your journal entries in Journey Cloud sync, Google Drive, and/or your own Self-hosted Journey Sync Drive. This repository contains the source code of Self-hosted Journey Sync Drive.
     <br />
     <br />
     <a href="https://github.com/Journey-Cloud/self-hosted">Source Code</a> (Coming Soon)
