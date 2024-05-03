@@ -53,7 +53,7 @@ The objective of this project is to provide users with a self-hosted variant of 
 
 * Web App: 5.4.22+
 * Android App: 5.4.0+
-* iOS/iPadOS/MacOS App:4.5.1+
+* iOS/iPadOS/MacOS App: 4.5.1+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
