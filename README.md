@@ -41,11 +41,19 @@ The objective of this project is to provide users with a self-hosted variant of 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+## Built With
 
 * [![Node][Node-logo]][Node-url]
 * [![Express][Express-logo]][Express-url]
 * [![MongoDB][MongoDB-logo]][MongoDB-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Requirement
+
+* Web App: 5.4.22+
+* Android App: 5.4.0+
+* iOS/iPadOS/MacOS App:4.5.1+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
