@@ -62,7 +62,7 @@ The objective of this project is to provide users with a self-hosted variant of 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Clone this project and get it running on your computer, view the image from [Docker Hub](https://hub.docker.com/r/journeycloud/journey-sync-self-hosted) to begin or follow the [guides](https://journey-cloud.github.io/self-hosted/) to setup.
+Clone this project and get it running on your computer, view the image from [Docker Hub](https://hub.docker.com/r/journeycloud/journey-sync-self-hosted) to begin or follow the [guides](https://journey-cloud.github.io/self-hosted-boilerplate/) to setup.
 
 
 <!-- LICENSE -->
